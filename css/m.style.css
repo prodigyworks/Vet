@@ -1,0 +1,118 @@
+/* TAGS */
+
+#orderapp form {
+	padding:2px;
+}
+
+#orderform {
+	margin-top: 2px;
+}
+
+#orderform td input {
+	font-size:11px;
+}
+
+#orderform .submitbutton {
+	padding:5px;
+	font-size:14px;
+	margin-top: 14px;
+}
+
+#orderform .header td {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 11px;
+}
+
+#orderform td {
+	padding-top: 0px;
+}
+
+.favourite div {
+	font-size: 12px ! important;
+	font-weight: bold;
+}
+
+.ui-autocomplete {
+	max-height:200px;
+	overflow:auto;
+	border:1px solid #AAAAAA ! important;
+}
+
+.ui-autocomplete li a {
+	font-size: 11px ! important;
+	line-height: 11px ! important;
+    padding-top:2px ! important;
+}	
+
+.ui-autocomplete li a:hover
+{
+    color:White ! important;
+    background:#96B202 ! important;
+    outline:none ! important;
+}
+
+.ui-state-focus
+{
+    color:White;
+    background:#96B202;
+    outline:none;
+}
+
+* {
+	margin: 0;
+	padding: 0
+}
+
+html, body {
+	max-width: 375px;
+}
+
+#loginForm {
+	width:100%;
+	text-align: center;
+	background-position-y: -80;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #434343;
+}
+
+
+input,textarea,select {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #D3FCF3 ! important;
+	font-size: 1em;
+	vertical-align: middle;
+	font-weight: normal
+}
+
+input[readonly], textarea[readonly], select[readonly] {
+	font-family: arial;
+	background-color: #E3ECE3 ! important;
+	color: black;
+}
+
+.title {
+	position: absolute;
+	width:160px;
+	padding: 2px;
+	font-size:12px;
+	top: 2px;
+}
+.logout a {
+	text-decoration: none;
+}
+.logout {
+	text-align:right;
+	position: absolute;
+	width:375px;
+	padding: 2px;
+	font-size:12px;
+	top: 2px;
+}
+
+#loginForm {
+	padding:5px;
+}
